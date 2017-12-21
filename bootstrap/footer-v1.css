@@ -1,0 +1,56 @@
+
+.footer-v1 .footer {
+    background: #272727 none repeat scroll 0 0;
+    padding: 40px 0;
+}
+.footer-v1 .footer p {
+    color: #eee;
+}
+.footer-v1 .footer h2 {
+    color: #eee;
+    font-size: 18px;
+    font-weight: 200;
+}
+.footer-v1 .link-list li {
+    border-top: 1px solid #353535;
+}
+.footer-v1 address, .footer-v1 .link-list a, .footer-v1 .link-list i {
+    color: #eee;
+}
+.footer-v1 address {
+    line-height: 23px;
+}
+.footer-v1 .footer .map-img {
+    background: rgba(0, 0, 0, 0) url("../../img/map-img.png") no-repeat scroll 5px 60px;
+}
+.footer-v1 .footer .posts .dl-horizontal a {
+    color: #dadada;
+}
+.footer-v1 .footer .dl-horizontal a:hover {
+    color: #5fb611 !important;
+}
+.footer-v1 .copyright {
+    background: #222 none repeat scroll 0 0;
+    border-top: medium none;
+    padding: 10px 0 5px;
+}
+.footer-v1 .copyright p {
+    color: #eee;
+    margin-top: 14px;
+}
+.footer-v1 .copyright a {
+    margin: 0 2px;
+}
+.footer-v1 .footer-socials {
+    margin-top: 12px;
+    text-align: right;
+}
+.footer-v1 .footer-socials li a {
+    color: #777;
+    font-size: 16px;
+}
+@media (max-width: 991px) {
+    .footer-v1 .copyright, .footer-v1 .footer-socials {
+        text-align: left;
+    }
+}
